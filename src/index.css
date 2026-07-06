@@ -1,0 +1,12 @@
+/* Legacy nav rules — kept minimal; primary nav uses Bootstrap + fb-navbar */
+nav.legacy-nav {
+  display: flex;
+  gap: 34px;
+  background-color: rgb(0, 0, 0);
+  color: rgb(227, 227, 227);
+}
+
+.red {
+  background-color: rgb(0, 0, 0);
+  color: rgb(242, 242, 242);
+}

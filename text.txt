@@ -1,0 +1,4 @@
+cd seeds-pesticide
+npm run dev
+cd seeds-pesticide
+node src/components/backend/server.js
